@@ -1,6 +1,4 @@
-A collection of some useful Adobe Illustrator scripts.
-
-MultiExporter.js
+WIP MultiExporter.js V2 for Iphone and Android
 ---------------
 
 Over the last year or so, I’ve cobbled together a couple Illustrator
